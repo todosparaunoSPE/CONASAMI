@@ -42,8 +42,7 @@ st.write("""
 # Agregar información adicional en la barra lateral
 st.sidebar.header("Ayuda y Contacto")
 st.sidebar.write("""
-    Para más detalles sobre el proceso de selección y el puesto, visita la página oficial de CONASAMI o envía un correo electrónico a la dirección proporcionada.
-    
+     
     **Desarrollado por:**
     - Javier Horacio Pérez Ricárdez
     - © 2024 Todos los derechos reservados.
