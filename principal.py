@@ -36,30 +36,7 @@ st.write("""
     **¿Qué es CONASAMI?**
     
     La **Comisión Nacional de los Salarios Mínimos (CONASAMI)** es un órgano autónomo del gobierno mexicano encargado de regular los salarios mínimos en el país, garantizando que estos sean justos y adecuados para los trabajadores.
-
-    **Objetivo del Puesto:**
-    
-    El puesto de **Coordinación para el Análisis de Economía Laboral** tiene como principal objetivo realizar estudios y análisis sobre la evolución del mercado laboral, los salarios mínimos, las condiciones económicas y su impacto en los trabajadores a nivel nacional.
-
-    **Responsabilidades Principales:**
-    
-    - Analizar las tendencias del mercado laboral en México.
-    - Evaluar el impacto de las políticas públicas sobre los salarios mínimos y la economía laboral.
-    - Colaborar con otros departamentos para la elaboración de estudios y recomendaciones.
-    - Preparar reportes y presentaciones con datos relevantes para las decisiones de CONASAMI.
-
-    **Requisitos del Puesto:**
-    
-    - Título universitario en Economía, Ciencias Sociales, Administración Pública o áreas afines.
-    - Experiencia previa en análisis económico y laboral.
-    - Conocimiento en la interpretación de datos estadísticos y económicos.
-    - Habilidades de comunicación y presentación de informes.
-
-    **¿Cómo Postularse?**
-    
-    Los interesados deben enviar su CV actualizado y una carta de motivación a la dirección de CONASAMI antes del **[fecha límite]**.
-    
-    Para más información, consulta la página oficial de **CONASAMI** o contacta a [email de contacto].
+   
 """)
 
 # Agregar información adicional en la barra lateral
