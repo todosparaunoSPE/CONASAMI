@@ -24,7 +24,7 @@ background-size:16px 16px;
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
 
-import streamlit as st
+
 
 # Configuración de la página de Streamlit debe ser la primera línea
 st.set_page_config(page_title="Convocatoria - Coordinación para el Análisis de Economía Laboral en CONASAMI", layout="wide")
