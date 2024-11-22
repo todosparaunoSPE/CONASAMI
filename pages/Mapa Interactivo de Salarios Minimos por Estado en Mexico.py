@@ -10,6 +10,10 @@ import pandas as pd
 import plotly.express as px
 import json
 
+
+# Configuración de la página: debe ser el primer comando
+st.set_page_config(page_title="Mapa de Salarios por Estado", layout="wide")
+
 # Estilo de fondo
 page_bg_img = """
 <style>
@@ -25,10 +29,6 @@ background-size:16px 16px;
 """
 
 st.markdown(page_bg_img, unsafe_allow_html=True)
-
-
-# Configuración de la página: debe ser el primer comando
-st.set_page_config(page_title="Mapa de Salarios por Estado", layout="wide")
 
 # Datos de salarios mínimos por estado
 data = {
