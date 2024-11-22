@@ -10,9 +10,6 @@ import pandas as pd
 import plotly.express as px
 
 
-
-
-
 # Datos ficticios de evolución del salario mínimo
 data = {
     "Año": list(range(2000, 2025)),
